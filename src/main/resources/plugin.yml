@@ -1,0 +1,10 @@
+name: EnterEnabler
+version: '${project.version}'
+main: enterenabler.me.nyaneo.fucking.enabling.Me.nyaneo.fucking.enabling
+api-version: 1.18
+commands:
+  d4fdgh-fystte-ausbf-onlyadmin-api-true-set:
+    description:
+
+  d4fdgh-fystte-ausbf-onlyadmin-api-true-unset:
+    description:
